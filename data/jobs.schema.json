@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JobDashboard Jobs Schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "company", "position", "priority", "status", "availability", "lastUpdate"],
+    "properties": {
+      "id": { "type": "string" },
+      "isDemo": { "type": "boolean" },
+      "company": { "type": "string" },
+      "position": { "type": "string" },
+      "location": {
+        "type": "object",
+        "properties": {
+          "city": { "type": "string" },
+          "country": { "type": "string" },
+          "latitude": { "type": "number" },
+          "longitude": { "type": "number" }
+        }
+      },
+      "priority": { "enum": ["high", "medium", "low"] },
+      "status": {
+        "enum": [
+          "interested",
+          "preparing",
+          "applied",
+          "hr_screen",
+          "technical_interview",
+          "final_interview",
+          "offer",
+          "rejected",
+          "withdrawn",
+          "closed"
+        ]
+      },
+      "availability": { "enum": ["available", "unknown", "closed"] },
+      "applicationType": { "type": ["string", "null"] },
+      "jobUrl": { "type": ["string", "null"] },
+      "companyUrl": { "type": ["string", "null"] },
+      "applicationDate": { "type": ["string", "null"] },
+      "lastUpdate": { "type": "string" },
+      "documents": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["type", "name", "submitted"],
+          "properties": {
+            "type": { "type": "string" },
+            "name": { "type": "string" },
+            "submitted": { "type": "boolean" },
+            "url": { "type": "string" },
+            "version": { "type": "string" }
+          }
+        }
+      },
+      "contacts": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "properties": {
+            "name": { "type": "string" },
+            "role": { "type": "string" },
+            "relation": { "type": "string" }
+          }
+        }
+      },
+      "timeline": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["date", "description"],
+          "properties": {
+            "date": { "type": "string" },
+            "type": { "type": "string" },
+            "description": { "type": "string" }
+          }
+        }
+      },
+      "notes": { "type": "string" },
+      "tags": { "type": "array", "items": { "type": "string" } }
+    }
+  }
+}
