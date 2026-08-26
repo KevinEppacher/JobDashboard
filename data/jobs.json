@@ -33,5 +33,17 @@
     "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],
     "notes":"Application development for mobile transport robots and AMRs. Work includes functional requirements, vehicle sensor selection, C++ development under Linux, testing algorithms directly on vehicles, customer commissioning, and fault analysis. Worldwide travel requirement of at least 20%. Listed salary starts at EUR 3,500 gross per month.",
     "tags":["C++","Linux","Mobile Robotics","AMR","AGV","Sensors","CANopen","Commissioning","Intralogistics"]
+  },
+  {
+    "id": "vace-softwareentwickler-cpp-mobile-robotik-7852304",
+    "company": "VACE Engineering GmbH",
+    "position": "Softwareentwickler*in C++ & Mobile Robotik (m/w/x)",
+    "location": {"city":"Linz","country":"Austria","latitude":48.3069,"longitude":14.2858},
+    "priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7852304","companyUrl":"https://www.vace.at","applicationDate":null,"lastUpdate":"2026-08-26",
+    "documents":[],
+    "contacts":[{"name":"Christoph Brandstätter","role":"Consultant","relation":"Contact listed in job posting"}],
+    "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],
+    "notes":"C++ software development for autonomous mobile robots and driverless transport systems for a VACE client in Linz. Responsibilities include defining vehicle functions and sensors, implementing applications and algorithms in C++ under Linux, testing and optimizing software directly on vehicles, commissioning at international customers, and troubleshooting. At least 20% international travel required. Listed salary starts at EUR 47,600 gross per year.",
+    "tags":["C++","Linux","Mobile Robotics","AMR","AGV","Autonomous Robots","Sensors","STL","CANopen","Commissioning","Intralogistics"]
   }
 ]
