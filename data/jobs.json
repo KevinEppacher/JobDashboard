@@ -57,5 +57,17 @@
     "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],
     "notes":"Software engineering role for mobile robots used in production and logistics environments. Work includes translating requirements into vehicle behavior, software development under Linux, sensor and hardware integration, direct testing and real-time debugging on physical robots, customer commissioning, and fault analysis. Up to 40% international travel. Salary range EUR 3,400 to EUR 4,400 gross per month.",
     "tags":["C++","Linux","Mobile Robotics","Autonomous Robots","Sensors","Hardware Integration","Debugging","Commissioning","Intralogistics"]
+  },
+  {
+    "id":"tensar-robotics-software-engineer-4437878224",
+    "company":"Tensar Systems",
+    "position":"Robotics Software Engineer",
+    "location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},
+    "priority":"high","status":"closed","availability":"unavailable","applicationType":"open_application","jobUrl":"https://www.linkedin.com/jobs/view/4437878224/","companyUrl":null,"applicationDate":null,"lastUpdate":"2026-08-26",
+    "documents":[],
+    "contacts":[{"name":"Kristof Kammerhofer","role":"Co-Founder & CPO","relation":"Potential contact for open application"}],
+    "timeline":[{"date":"2026-08-26","type":"added","description":"Former Robotics Software Engineer opening added as a target for an open application; company is currently not accepting applications for this role."}],
+    "notes":"Former Vienna Robotics Software Engineer opening. Currently no longer accepting applications, but retained as a high-priority target for a future/open application. Role covered end-to-end UAV capabilities including architecture, prototyping, bench and field testing. Requirements included Python, Linux, ROS 2, computer vision, sensor/actuator integration, Git/GitHub and Docker; sensor fusion, state estimation and GIS/mapping were strongly preferred. Former listing indicated salary from EUR 45,000 gross per year.",
+    "tags":["ROS 2","Python","Linux","UAV","Autonomous Systems","Computer Vision","Sensor Fusion","State Estimation","Docker","Field Testing"]
   }
 ]
