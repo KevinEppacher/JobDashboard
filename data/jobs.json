@@ -73,5 +73,44 @@
       "Mobile Robotics",
       "Mobile Manipulation"
     ]
+  },
+  {
+    "id": "knapp-senior-embedded-software-developer-robotik-7780637",
+    "company": "KNAPP",
+    "position": "Senior Embedded Software Developer - Robotik (m/w/d)",
+    "location": {
+      "city": "Dobl-Zwaring",
+      "country": "Austria",
+      "latitude": 46.946,
+      "longitude": 15.375
+    },
+    "priority": "high",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.karriere.at/jobs/7780637",
+    "companyUrl": "https://www.knapp.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with high priority."
+      }
+    ],
+    "notes": "Senior embedded software development role for mobile robotic systems in intralogistics. Focus on hardware-near software, C/C++, sensor fusion, control, real-time systems, ROS, Git/GitLab, and development of mobile transport robots. Home office possible. Listed salary starts at EUR 4,000 gross per month.",
+    "tags": [
+      "C++",
+      "Embedded Software",
+      "Mobile Robotics",
+      "ROS",
+      "Sensor Fusion",
+      "Control",
+      "Real-Time Systems",
+      "Intralogistics"
+    ]
   }
 ]
