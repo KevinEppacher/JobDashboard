@@ -1,0 +1,220 @@
+[
+  {
+    "id": "demo-taurob-open-application",
+    "isDemo": true,
+    "company": "Taurob",
+    "position": "Robotics Software Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "preparing",
+    "availability": "available",
+    "applicationType": "open_application",
+    "jobUrl": null,
+    "companyUrl": "https://taurob.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-25",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Demo CV",
+        "submitted": false,
+        "version": "2026-08"
+      },
+      {
+        "type": "cover_letter",
+        "name": "Demo Cover Letter",
+        "submitted": false,
+        "version": "2026-08"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Demo Recruiter",
+        "role": "Recruiter",
+        "relation": "Application contact"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-25",
+        "type": "note",
+        "description": "DEMO: Application preparation started."
+      }
+    ],
+    "notes": "DEMO DATA: Open application in preparation.",
+    "tags": ["ROS 2", "Navigation", "C++", "Mobile Robotics"]
+  },
+  {
+    "id": "demo-anybotics-applied",
+    "isDemo": true,
+    "company": "ANYbotics",
+    "position": "Software Engineer - Autonomy",
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417
+    },
+    "priority": "medium",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://example.com/demo-job-anybotics",
+    "companyUrl": "https://www.anybotics.com",
+    "applicationDate": "2026-08-20",
+    "lastUpdate": "2026-08-21",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Demo CV",
+        "submitted": true
+      },
+      {
+        "type": "cover_letter",
+        "name": "Demo Cover Letter",
+        "submitted": true
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-20",
+        "type": "application",
+        "description": "DEMO: Application submitted."
+      }
+    ],
+    "notes": "DEMO DATA: Submitted via careers portal.",
+    "tags": ["Perception", "Python", "Robotics"]
+  },
+  {
+    "id": "demo-baubot-technical-interview",
+    "isDemo": true,
+    "company": "Baubot",
+    "position": "Robotics Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "technical_interview",
+    "availability": "closed",
+    "applicationType": "job_posting",
+    "jobUrl": "https://example.com/demo-job-baubot",
+    "companyUrl": "https://www.baubot.com",
+    "applicationDate": "2026-08-10",
+    "lastUpdate": "2026-08-24",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Demo CV",
+        "submitted": true
+      },
+      {
+        "type": "employment_reference",
+        "name": "Demo Employment Reference",
+        "submitted": true
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Demo Hiring Manager",
+        "role": "Hiring Manager",
+        "relation": "Interview contact"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-10",
+        "type": "application",
+        "description": "DEMO: Application submitted."
+      },
+      {
+        "date": "2026-08-22",
+        "type": "interview",
+        "description": "DEMO: Technical interview scheduled."
+      }
+    ],
+    "notes": "DEMO DATA: Job posting closed while interview process is active.",
+    "tags": ["ROS 2", "C++", "Field Robotics"]
+  },
+  {
+    "id": "demo-agile-robots-rejected",
+    "isDemo": true,
+    "company": "Agile Robots",
+    "position": "Robotics Software Engineer",
+    "location": {
+      "city": "Munich",
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582
+    },
+    "priority": "low",
+    "status": "rejected",
+    "availability": "closed",
+    "applicationType": "job_posting",
+    "jobUrl": "https://example.com/demo-job-agile-robots",
+    "companyUrl": "https://www.agile-robots.com",
+    "applicationDate": "2026-07-01",
+    "lastUpdate": "2026-07-19",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Demo CV",
+        "submitted": true
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-07-01",
+        "type": "application",
+        "description": "DEMO: Application submitted."
+      },
+      {
+        "date": "2026-07-19",
+        "type": "status",
+        "description": "DEMO: Application rejected."
+      }
+    ],
+    "notes": "DEMO DATA: Closed after rejection.",
+    "tags": ["Automation", "Control"]
+  },
+  {
+    "id": "demo-sick-never-applied",
+    "isDemo": true,
+    "company": "SICK",
+    "position": "Autonomous Systems Engineer",
+    "location": {
+      "city": "Freiburg",
+      "country": "Germany",
+      "latitude": 47.999,
+      "longitude": 7.8421
+    },
+    "priority": "medium",
+    "status": "interested",
+    "availability": "closed",
+    "applicationType": "job_posting",
+    "jobUrl": "https://example.com/demo-job-sick",
+    "companyUrl": "https://www.sick.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-01",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-07-30",
+        "type": "note",
+        "description": "DEMO: Saved posting for later review."
+      }
+    ],
+    "notes": "DEMO DATA: Job closed before applying.",
+    "tags": ["Computer Vision", "SLAM"]
+  }
+]
