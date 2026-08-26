@@ -45,5 +45,17 @@
     "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],
     "notes":"C++ software development for autonomous mobile robots and driverless transport systems for a VACE client in Linz. Responsibilities include defining vehicle functions and sensors, implementing applications and algorithms in C++ under Linux, testing and optimizing software directly on vehicles, commissioning at international customers, and troubleshooting. At least 20% international travel required. Listed salary starts at EUR 47,600 gross per year.",
     "tags":["C++","Linux","Mobile Robotics","AMR","AGV","Autonomous Robots","Sensors","STL","CANopen","Commissioning","Intralogistics"]
+  },
+  {
+    "id": "kern-junior-softwareentwickler-intelligente-robotik-7829963",
+    "company": "KERN engineering careers GmbH",
+    "position": "Junior Softwareentwickler für intelligente Robotik (w/m/d)",
+    "location": {"city":"Linz","country":"Austria","latitude":48.3069,"longitude":14.2858},
+    "priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7829963","companyUrl":"https://www.kern-partner.at","applicationDate":null,"lastUpdate":"2026-08-26",
+    "documents":[],
+    "contacts":[{"name":"Marlies Teichmann","role":"Application Contact","relation":"Contact listed in job posting"}],
+    "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],
+    "notes":"Software engineering role for mobile robots used in production and logistics environments. Work includes translating requirements into vehicle behavior, software development under Linux, sensor and hardware integration, direct testing and real-time debugging on physical robots, customer commissioning, and fault analysis. Up to 40% international travel. Salary range EUR 3,400 to EUR 4,400 gross per month.",
+    "tags":["C++","Linux","Mobile Robotics","Autonomous Robots","Sensors","Hardware Integration","Debugging","Commissioning","Intralogistics"]
   }
 ]
