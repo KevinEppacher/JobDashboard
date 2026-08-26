@@ -3,114 +3,35 @@
     "id": "taurob-open-application-2026",
     "company": "Taurob",
     "position": "Robotics Software Engineer",
-    "location": {
-      "city": "Vienna",
-      "country": "Austria",
-      "latitude": 48.2082,
-      "longitude": 16.3738
-    },
-    "priority": "high",
-    "status": "applied",
-    "availability": "available",
-    "applicationType": "open_application",
-    "jobUrl": null,
-    "companyUrl": "https://taurob.com",
-    "applicationDate": "2026-08-26",
-    "lastUpdate": "2026-08-26",
-    "documents": [
-      {
-        "type": "cv",
-        "name": "Kevin Eppacher CV",
-        "submitted": true,
-        "version": "2026-08",
-        "path": "data/taurob/KevinEppacherCV.pdf"
-      },
-      {
-        "type": "cover_letter",
-        "name": "Taurob Cover Letter",
-        "submitted": true,
-        "version": "2026-08",
-        "path": "data/taurob/TaurobCoverLetter.pdf"
-      },
-      {
-        "type": "employment_reference",
-        "name": "Baubot Employment Reference",
-        "submitted": true,
-        "version": "2026-08",
-        "path": "data/taurob/DZ_Baubot_Kevin_Eppacher.pdf"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Natascha Schalkhas",
-        "role": "Application Contact",
-        "relation": "Open application"
-      },
-      {
-        "name": "Jens Steinhauser",
-        "role": "Professional Reference",
-        "relation": "Former colleague at Baubot"
-      },
-      {
-        "name": "Martijn de Kwaasteniet",
-        "role": "Deputy VP Customer Success",
-        "relation": "Previous contact at Vienna Robotics Festival"
-      }
-    ],
-    "timeline": [
-      {
-        "date": "2026-08-26",
-        "type": "application",
-        "description": "Open application submitted for Robotics Software Engineering."
-      }
-    ],
+    "location": {"city": "Vienna", "country": "Austria", "latitude": 48.2082, "longitude": 16.3738},
+    "priority": "high", "status": "applied", "availability": "available", "applicationType": "open_application", "jobUrl": null, "companyUrl": "https://taurob.com", "applicationDate": "2026-08-26", "lastUpdate": "2026-08-26",
+    "documents": [{"type":"cv","name":"Kevin Eppacher CV","submitted":true,"version":"2026-08","path":"data/taurob/KevinEppacherCV.pdf"},{"type":"cover_letter","name":"Taurob Cover Letter","submitted":true,"version":"2026-08","path":"data/taurob/TaurobCoverLetter.pdf"},{"type":"employment_reference","name":"Baubot Employment Reference","submitted":true,"version":"2026-08","path":"data/taurob/DZ_Baubot_Kevin_Eppacher.pdf"}],
+    "contacts": [{"name":"Natascha Schalkhas","role":"Application Contact","relation":"Open application"},{"name":"Jens Steinhauser","role":"Professional Reference","relation":"Former colleague at Baubot"},{"name":"Martijn de Kwaasteniet","role":"Deputy VP Customer Success","relation":"Previous contact at Vienna Robotics Festival"}],
+    "timeline": [{"date":"2026-08-26","type":"application","description":"Open application submitted for Robotics Software Engineering."}],
     "notes": "Open application for Robotics Software Engineering. Portfolio included via link in the application documents.",
-    "tags": [
-      "ROS 2",
-      "Navigation",
-      "Motion Planning",
-      "C++",
-      "Mobile Robotics",
-      "Mobile Manipulation"
-    ]
+    "tags": ["ROS 2","Navigation","Motion Planning","C++","Mobile Robotics","Mobile Manipulation"]
   },
   {
     "id": "knapp-senior-embedded-software-developer-robotik-7780637",
     "company": "KNAPP",
     "position": "Senior Embedded Software Developer - Robotik (m/w/d)",
-    "location": {
-      "city": "Dobl-Zwaring",
-      "country": "Austria",
-      "latitude": 46.946,
-      "longitude": 15.375
-    },
-    "priority": "high",
-    "status": "open",
-    "availability": "available",
-    "applicationType": "job_posting",
-    "jobUrl": "https://www.karriere.at/jobs/7780637",
-    "companyUrl": "https://www.knapp.com",
-    "applicationDate": null,
-    "lastUpdate": "2026-08-26",
-    "documents": [],
-    "contacts": [],
-    "timeline": [
-      {
-        "date": "2026-08-26",
-        "type": "added",
-        "description": "Job added to dashboard as open with high priority."
-      }
-    ],
-    "notes": "Senior embedded software development role for mobile robotic systems in intralogistics. Focus on hardware-near software, C/C++, sensor fusion, control, real-time systems, ROS, Git/GitLab, and development of mobile transport robots. Home office possible. Listed salary starts at EUR 4,000 gross per month.",
-    "tags": [
-      "C++",
-      "Embedded Software",
-      "Mobile Robotics",
-      "ROS",
-      "Sensor Fusion",
-      "Control",
-      "Real-Time Systems",
-      "Intralogistics"
-    ]
+    "location": {"city":"Dobl-Zwaring","country":"Austria","latitude":46.946,"longitude":15.375},
+    "priority":"high","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7780637","companyUrl":"https://www.knapp.com","applicationDate":null,"lastUpdate":"2026-08-26",
+    "documents":[],"contacts":[],
+    "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with high priority."}],
+    "notes":"Senior embedded software development role for mobile robotic systems in intralogistics. Focus on hardware-near software, C/C++, sensor fusion, control, real-time systems, ROS, Git/GitLab, and development of mobile transport robots. Home office possible. Listed salary starts at EUR 4,000 gross per month.",
+    "tags":["C++","Embedded Software","Mobile Robotics","ROS","Sensor Fusion","Control","Real-Time Systems","Intralogistics"]
+  },
+  {
+    "id": "ds-automotion-applikationsentwickler-mobile-robotik-7823477",
+    "company": "DS Automotion GmbH",
+    "position": "ApplikationsentwicklerIn für mobile Robotik (m/w/x)",
+    "location": {"city":"Linz","country":"Austria","latitude":48.3069,"longitude":14.2858},
+    "priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7823477","companyUrl":"https://www.ds-automotion.com","applicationDate":null,"lastUpdate":"2026-08-26",
+    "documents":[],
+    "contacts":[{"name":"Magdalena Platzer","role":"Application Contact","relation":"Contact listed in job posting"}],
+    "timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],
+    "notes":"Application development for mobile transport robots and AMRs. Work includes functional requirements, vehicle sensor selection, C++ development under Linux, testing algorithms directly on vehicles, customer commissioning, and fault analysis. Worldwide travel requirement of at least 20%. Listed salary starts at EUR 3,500 gross per month.",
+    "tags":["C++","Linux","Mobile Robotics","AMR","AGV","Sensors","CANopen","Commissioning","Intralogistics"]
   }
 ]
