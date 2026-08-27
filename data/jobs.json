@@ -618,12 +618,12 @@
       "longitude": 14.2858
     },
     "priority": "high",
-    "status": "open",
+    "status": "applied",
     "availability": "available",
     "applicationType": "job_posting",
     "jobUrl": "https://www.iono.tech/jobs-1/ai-researcher",
     "companyUrl": "https://www.iono.tech",
-    "applicationDate": null,
+    "applicationDate": "2026-08-27",
     "lastUpdate": "2026-08-27",
     "documents": [],
     "contacts": [],
@@ -632,6 +632,11 @@
         "date": "2026-08-27",
         "type": "added",
         "description": "Job added to dashboard as open with high priority."
+      },
+      {
+        "date": "2026-08-27",
+        "type": "application",
+        "description": "Application submitted for AI Researcher."
       }
     ],
     "notes": "AI Researcher role focused on adaptable human-centric robots, bridging deep learning with robotics. Responsibilities include developing models for motion planning, vision, and human-robot interaction; research in reinforcement learning, imitation learning, and multimodal AI; prototyping and testing algorithms on real humanoid robots; and transitioning research toward deployment. Requires an MSc or PhD in AI, Machine Learning, Robotics, or similar, strong neural-network experience with PyTorch or TensorFlow, and experience with embodied AI or learning in physical environments. Robotics simulation experience with Isaac Gym or Gazebo is a bonus. Full-time hybrid role in Linz.",
