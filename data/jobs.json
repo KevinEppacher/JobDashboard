@@ -403,13 +403,13 @@
       "longitude": 16.3738
     },
     "priority": "high",
-    "status": "open",
+    "status": "applied",
     "availability": "available",
     "applicationType": "job_posting",
     "jobUrl": "https://www.linkedin.com/jobs/view/4446615261/",
     "companyUrl": "https://www.sea.ai",
-    "applicationDate": null,
-    "lastUpdate": "2026-08-26",
+    "applicationDate": "2026-08-27",
+    "lastUpdate": "2026-08-27",
     "documents": [],
     "contacts": [
       {
@@ -423,6 +423,11 @@
         "date": "2026-08-26",
         "type": "added",
         "description": "Job added to dashboard as open with high priority."
+      },
+      {
+        "date": "2026-08-27",
+        "type": "application",
+        "description": "Application submitted via LinkedIn for Software Engineer (m/f/d)."
       }
     ],
     "notes": "Software engineering for real-time computer vision systems running on embedded NVIDIA Jetson hardware on vessels. Role focuses on C++/Python processing pipelines, real-time performance optimization, memory/compute/latency constraints, unit/integration/end-to-end testing, and cross-functional hardware/AI development. Requires hands-on GStreamer/video pipeline experience and lists 5+ years of production software experience. Nice-to-have technologies include NVIDIA DeepStream, Jetson/JetPack, OpenCV, CUDA/TensorRT, multi-object tracking, hardware-in-the-loop testing, and machine learning. Minimum salary EUR 60,000 gross per year.",
@@ -643,6 +648,48 @@
       "Humanoid Robots",
       "Isaac Gym",
       "Gazebo"
+    ]
+  },
+  {
+    "id": "sea-ai-ai-vision-engineer-4446614275",
+    "company": "SEA.AI",
+    "position": "AI Vision Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4446614275/",
+    "companyUrl": "https://www.sea.ai",
+    "applicationDate": "2026-08-27",
+    "lastUpdate": "2026-08-27",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-27",
+        "type": "application",
+        "description": "Application submitted via LinkedIn for AI Vision Engineer."
+      }
+    ],
+    "notes": "AI/computer vision role for maritime perception systems. Focus on neural-network-based vision, multi-object tracking, computer vision geometry, sensor fusion, reproducible ML workflows, embedded deployment, and evaluating Vision-Language Models for practical use. Applied via LinkedIn.",
+    "tags": [
+      "Computer Vision",
+      "AI",
+      "Python",
+      "C++",
+      "OpenCV",
+      "PyTorch",
+      "Vision-Language Models",
+      "Multi-Object Tracking",
+      "Sensor Fusion",
+      "Embedded AI",
+      "NVIDIA Jetson"
     ]
   }
 ]
