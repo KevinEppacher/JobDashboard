@@ -1,5 +1,7 @@
 # Job Application Dashboard
 
+**Note:** Link for website: <https://kevineppacher.github.io/JobDashboard/>
+
 A lightweight static dashboard for tracking robotics/software engineering job opportunities and application progress.
 
 > Screenshot placeholder: add a screenshot to `assets/screenshot.png` and update this section.
