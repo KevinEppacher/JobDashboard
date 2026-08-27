@@ -1,14 +1,648 @@
 [
-  {"id":"taurob-open-application-2026","company":"Taurob","position":"Robotics Software Engineer","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"high","status":"applied","availability":"available","applicationType":"open_application","jobUrl":null,"companyUrl":"https://taurob.com","applicationDate":"2026-08-26","lastUpdate":"2026-08-26","documents":[{"type":"cv","name":"Kevin Eppacher CV","submitted":true,"version":"2026-08","path":"data/taurob/KevinEppacherCV.pdf"},{"type":"cover_letter","name":"Taurob Cover Letter","submitted":true,"version":"2026-08","path":"data/taurob/TaurobCoverLetter.pdf"},{"type":"employment_reference","name":"Baubot Employment Reference","submitted":true,"version":"2026-08","path":"data/taurob/DZ_Baubot_Kevin_Eppacher.pdf"}],"contacts":[{"name":"Natascha Schalkhas","role":"Application Contact","relation":"Open application"},{"name":"Jens Steinhauser","role":"Professional Reference","relation":"Former colleague at Baubot"},{"name":"Martijn de Kwaasteniet","role":"Deputy VP Customer Success","relation":"Previous contact at Vienna Robotics Festival"}],"timeline":[{"date":"2026-08-26","type":"application","description":"Open application submitted for Robotics Software Engineering."}],"notes":"Open application for Robotics Software Engineering. Portfolio included via link in the application documents.","tags":["ROS 2","Navigation","Motion Planning","C++","Mobile Robotics","Mobile Manipulation"]},
-  {"id":"knapp-senior-embedded-software-developer-robotik-7780637","company":"KNAPP","position":"Senior Embedded Software Developer - Robotik (m/w/d)","location":{"city":"Dobl-Zwaring","country":"Austria","latitude":46.946,"longitude":15.375},"priority":"high","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7780637","companyUrl":"https://www.knapp.com","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with high priority."}],"notes":"Senior embedded software development role for mobile robotic systems in intralogistics. Focus on hardware-near software, C/C++, sensor fusion, control, real-time systems, ROS, Git/GitLab, and development of mobile transport robots. Home office possible. Listed salary starts at EUR 4,000 gross per month.","tags":["C++","Embedded Software","Mobile Robotics","ROS","Sensor Fusion","Control","Real-Time Systems","Intralogistics"]},
-  {"id":"ds-automotion-applikationsentwickler-mobile-robotik-7823477","company":"DS Automotion GmbH","position":"ApplikationsentwicklerIn für mobile Robotik (m/w/x)","location":{"city":"Linz","country":"Austria","latitude":48.3069,"longitude":14.2858},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7823477","companyUrl":"https://www.ds-automotion.com","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[{"name":"Magdalena Platzer","role":"Application Contact","relation":"Contact listed in job posting"}],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"Application development for mobile transport robots and AMRs. Work includes functional requirements, vehicle sensor selection, C++ development under Linux, testing algorithms directly on vehicles, customer commissioning, and fault analysis. Worldwide travel requirement of at least 20%. Listed salary starts at EUR 3,500 gross per month.","tags":["C++","Linux","Mobile Robotics","AMR","AGV","Sensors","CANopen","Commissioning","Intralogistics"]},
-  {"id":"vace-softwareentwickler-cpp-mobile-robotik-7852304","company":"VACE Engineering GmbH","position":"Softwareentwickler*in C++ & Mobile Robotik (m/w/x)","location":{"city":"Linz","country":"Austria","latitude":48.3069,"longitude":14.2858},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7852304","companyUrl":"https://www.vace.at","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[{"name":"Christoph Brandstätter","role":"Consultant","relation":"Contact listed in job posting"}],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"C++ software development for autonomous mobile robots and driverless transport systems for a VACE client in Linz. Responsibilities include defining vehicle functions and sensors, implementing applications and algorithms in C++ under Linux, testing and optimizing software directly on vehicles, commissioning at international customers, and troubleshooting. At least 20% international travel required. Listed salary starts at EUR 47,600 gross per year.","tags":["C++","Linux","Mobile Robotics","AMR","AGV","Autonomous Robots","Sensors","STL","CANopen","Commissioning","Intralogistics"]},
-  {"id":"kern-junior-softwareentwickler-intelligente-robotik-7829963","company":"KERN engineering careers GmbH","position":"Junior Softwareentwickler für intelligente Robotik (w/m/d)","location":{"city":"Linz","country":"Austria","latitude":48.3069,"longitude":14.2858},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/7829963","companyUrl":"https://www.kern-partner.at","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[{"name":"Marlies Teichmann","role":"Application Contact","relation":"Contact listed in job posting"}],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"Software engineering role for mobile robots used in production and logistics environments. Work includes translating requirements into vehicle behavior, software development under Linux, sensor and hardware integration, direct testing and real-time debugging on physical robots, customer commissioning, and fault analysis. Up to 40% international travel. Salary range EUR 3,400 to EUR 4,400 gross per month.","tags":["C++","Linux","Mobile Robotics","Autonomous Robots","Sensors","Hardware Integration","Debugging","Commissioning","Intralogistics"]},
-  {"id":"tensar-robotics-software-engineer-4437878224","company":"Tensar Systems","position":"Robotics Software Engineer","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"high","status":"closed","availability":"unavailable","applicationType":"open_application","jobUrl":"https://www.linkedin.com/jobs/view/4437878224/","companyUrl":null,"applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[{"name":"Kristof Kammerhofer","role":"Co-Founder & CPO","relation":"Potential contact for open application"}],"timeline":[{"date":"2026-08-26","type":"added","description":"Former Robotics Software Engineer opening added as a target for an open application; company is currently not accepting applications for this role."}],"notes":"Former Vienna Robotics Software Engineer opening. Currently no longer accepting applications, but retained as a high-priority target for a future/open application. Role covered end-to-end UAV capabilities including architecture, prototyping, bench and field testing. Requirements included Python, Linux, ROS 2, computer vision, sensor/actuator integration, Git/GitHub and Docker; sensor fusion, state estimation and GIS/mapping were strongly preferred. Former listing indicated salary from EUR 45,000 gross per year.","tags":["ROS 2","Python","Linux","UAV","Autonomous Systems","Computer Vision","Sensor Fusion","State Estimation","Docker","Field Testing"]},
-  {"id":"knapp-softwareentwicklerin-mobile-robotersysteme-4455622518","company":"KNAPP","position":"Softwareentwickler:in für mobile Robotersysteme (m/w/d)","location":{"city":"Dobl-Zwaring","country":"Austria","latitude":46.946,"longitude":15.375},"priority":"high","status":"applied","availability":"available","applicationType":"job_posting","jobUrl":"https://www.linkedin.com/jobs/view/4455622518/","companyUrl":"https://www.knapp.com","applicationDate":"2026-08-26","lastUpdate":"2026-08-26","documents":[{"type":"employment_reference","name":"Baubot Employment Reference","submitted":true,"version":"2026-08","path":"data/knapp/DZ_Baubot_Kevin_Eppacher.pdf"},{"type":"degree_certificate","name":"Diploma Certificate","submitted":true,"version":"2026-08","path":"data/knapp/EppacherDiplomurkunde.pdf"},{"type":"degree_certificate","name":"Diploma Certificate English","submitted":true,"version":"2026-08","path":"data/knapp/EppacherDiplomurkundeEng.pdf"},{"type":"cv","name":"Kevin Eppacher CV","submitted":true,"version":"2026-08","path":"data/knapp/KevinEppacherCV.pdf"},{"type":"cover_letter","name":"KNAPP Cover Letter","submitted":true,"version":"2026-08","path":"data/knapp/KnappCoverLetter.pdf"},{"type":"certificate","name":"KUKA AMR Certificate","submitted":true,"version":"2026-08","path":"data/knapp/KUKA_AMR_Certificate.pdf"}],"contacts":[],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with high priority."},{"date":"2026-08-26","type":"application","description":"Application submitted for Softwareentwickler:in für mobile Robotersysteme (m/w/d)."}],"notes":"Software development for multiple mobile robot systems and mobile transport robots in intralogistics. Work spans vehicle software and central fleet control, product development and customer projects. Requirements emphasize C++, Linux, ROS or related frameworks, sensor fusion, localization, navigation, control, hardware components, machine learning/AI, user-interface tooling, Git/GitLab and Docker. Listed minimum salary is EUR 3,415.01 gross per month for 38.5 hours per week, with overpayment depending on qualifications and experience.","tags":["C++","Linux","ROS","Mobile Robotics","AMR","Navigation","Localization","Sensor Fusion","Control","Fleet Control","Docker","Git","Intralogistics"]},
-  {"id":"sea-ai-software-engineer-4446615261","company":"SEA.AI","position":"Software Engineer (m/f/d)","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"high","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.linkedin.com/jobs/view/4446615261/","companyUrl":"https://www.sea.ai","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[{"name":"Christian Willminger","role":"Application Contact","relation":"Contact listed in job posting"}],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with high priority."}],"notes":"Software engineering for real-time computer vision systems running on embedded NVIDIA Jetson hardware on vessels. Role focuses on C++/Python processing pipelines, real-time performance optimization, memory/compute/latency constraints, unit/integration/end-to-end testing, and cross-functional hardware/AI development. Requires hands-on GStreamer/video pipeline experience and lists 5+ years of production software experience. Nice-to-have technologies include NVIDIA DeepStream, Jetson/JetPack, OpenCV, CUDA/TensorRT, multi-object tracking, hardware-in-the-loop testing, and machine learning. Minimum salary EUR 60,000 gross per year.","tags":["C++","Python","Computer Vision","NVIDIA Jetson","GStreamer","Real-Time Systems","OpenCV","CUDA","TensorRT","DeepStream","Embedded Systems","Testing"]},
-  {"id":"hitachi-rail-software-engineer-dependable-systems-4448716670","company":"Hitachi Rail","position":"Software Engineer for Dependable Systems (f/m/d)","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.linkedin.com/jobs/view/4448716670/","companyUrl":"https://www.hitachirail.com","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"Software engineering for Hitachi Rail's Dependable Systems team and TAS platform, a safety-critical real-time hardware and software platform for railway applications. Responsibilities include safety-, real-time- and security-focused software development, distributed systems and protocols, complex-system analysis, technical architecture and design, design patterns, implementation/integration/verification, and working in an agile environment with standardized quality and safety processes. Profile emphasizes C++, embedded real-time systems, Linux OS/development, distributed consensus protocols and virtualized systems. Listed salary starts at EUR 50,000 gross per year with up to 60% home office depending on the position.","tags":["C++","Linux","Embedded Systems","Real-Time Systems","Safety-Critical Systems","Distributed Systems","Software Architecture","Verification","Railway","Security"]},
-  {"id":"aeolus-senior-robotics-navigation-software-engineer-26-4","company":"Aeolus Robotics","position":"Senior Robotics Navigation Software Engineer","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://careers.aeolusbot.com/jobs/Careers/437636000034139048/Senior-Robotics-Navigation-Software-Engineer?source=CareerSite","companyUrl":"https://aeolusbot.com","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"Senior navigation software role for autonomous service robots operating in dynamic indoor environments. Job Opening ID 26/4. Focus on 2D navigation algorithms, global and local trajectory planning, constrained motion planning, obstacle avoidance and recovery behavior, costmap integration from multiple sensor sources, debugging navigation failures, simulation and real-world deployment. Requires 5+ years of professional robotics software development, expert-level C++ and Linux, practical ROS/ROS 2 experience, and a proven track record with physical robots.","tags":["ROS 2","C++","Linux","Navigation","Motion Planning","Trajectory Planning","Localization","Costmaps","Obstacle Avoidance","Mobile Robotics","Physical Robots","Simulation"]},
-  {"id":"aeolus-junior-robotics-engineer-25-9","company":"Aeolus Robotics","position":"Junior Robotics Engineer","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://careers.aeolusbot.com/jobs/Careers/437636000034139001/Junior-Robotics-Engineer?source=CareerSite","companyUrl":"https://aeolusbot.com","applicationDate":null,"lastUpdate":"2026-08-26","documents":[],"contacts":[],"timeline":[{"date":"2026-08-26","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"Junior generalist robotics engineering role in Vienna (Job Opening ID 25/9, 0-3 years experience). Hands-on work across the robotics stack including debugging and maintaining existing components, analyzing logs and telemetry to troubleshoot real robot failures, hardening research prototypes such as grasping and manipulation pipelines for deployment, writing production code, and supporting tooling, experiments and automation. Strong emphasis on real hardware experience and practical robotics. Requires solid computer science fundamentals and enough C++ to read and reason about a large codebase; BSc or MSc in a relevant field. In-office role with no remote work.","tags":["C++","Robotics","Physical Robots","Debugging","Telemetry","Manipulation","Production Software","Automation","Hardware Integration","Testing"]},
-  {"id":"konica-minolta-software-engineer-plc-robot-7860004","company":"Konica Minolta Business Solutions Austria GmbH","position":"Software Engineer (PLC / Robot) (m/w/d)","location":{"city":"Vienna","country":"Austria","latitude":48.2082,"longitude":16.3738},"priority":"medium","status":"open","availability":"available","applicationType":"job_posting","jobUrl":"https://www.karriere.at/jobs/robotik/wien#7860004","companyUrl":"https://www.konicaminolta.at","applicationDate":null,"lastUpdate":"2026-08-27","documents":[],"contacts":[],"timeline":[{"date":"2026-08-27","type":"added","description":"Job added to dashboard as open with medium priority."}],"notes":"Software Engineer role in Vienna at Konica Minolta Business Solutions Austria GmbH, focused on PLC and robotics within Research & Development. Full-time permanent position with mobile work/home office possible. Listed salary starts at EUR 75,000 gross per year.","tags":["Robotics","PLC","Software Engineering","Research & Development","Industrial Automation"]}
+  {
+    "id": "taurob-open-application-2026",
+    "company": "Taurob",
+    "position": "Robotics Software Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "open_application",
+    "jobUrl": null,
+    "companyUrl": "https://taurob.com",
+    "applicationDate": "2026-08-26",
+    "lastUpdate": "2026-08-26",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/taurob/KevinEppacherCV.pdf"
+      },
+      {
+        "type": "cover_letter",
+        "name": "Taurob Cover Letter",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/taurob/TaurobCoverLetter.pdf"
+      },
+      {
+        "type": "employment_reference",
+        "name": "Baubot Employment Reference",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/taurob/DZ_Baubot_Kevin_Eppacher.pdf"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Natascha Schalkhas",
+        "role": "Application Contact",
+        "relation": "Open application"
+      },
+      {
+        "name": "Jens Steinhauser",
+        "role": "Professional Reference",
+        "relation": "Former colleague at Baubot"
+      },
+      {
+        "name": "Martijn de Kwaasteniet",
+        "role": "Deputy VP Customer Success",
+        "relation": "Previous contact at Vienna Robotics Festival"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "application",
+        "description": "Open application submitted for Robotics Software Engineering."
+      }
+    ],
+    "notes": "Open application for Robotics Software Engineering. Portfolio included via link in the application documents.",
+    "tags": [
+      "ROS 2",
+      "Navigation",
+      "Motion Planning",
+      "C++",
+      "Mobile Robotics",
+      "Mobile Manipulation"
+    ]
+  },
+  {
+    "id": "knapp-senior-embedded-software-developer-robotik-7780637",
+    "company": "KNAPP",
+    "position": "Senior Embedded Software Developer - Robotik (m/w/d)",
+    "location": {
+      "city": "Dobl-Zwaring",
+      "country": "Austria",
+      "latitude": 46.946,
+      "longitude": 15.375
+    },
+    "priority": "high",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.karriere.at/jobs/7780637",
+    "companyUrl": "https://www.knapp.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with high priority."
+      }
+    ],
+    "notes": "Senior embedded software development role for mobile robotic systems in intralogistics. Focus on hardware-near software, C/C++, sensor fusion, control, real-time systems, ROS, Git/GitLab, and development of mobile transport robots. Home office possible. Listed salary starts at EUR 4,000 gross per month.",
+    "tags": [
+      "C++",
+      "Embedded Software",
+      "Mobile Robotics",
+      "ROS",
+      "Sensor Fusion",
+      "Control",
+      "Real-Time Systems",
+      "Intralogistics"
+    ]
+  },
+  {
+    "id": "ds-automotion-applikationsentwickler-mobile-robotik-7823477",
+    "company": "DS Automotion GmbH",
+    "position": "ApplikationsentwicklerIn für mobile Robotik (m/w/x)",
+    "location": {
+      "city": "Linz",
+      "country": "Austria",
+      "latitude": 48.3069,
+      "longitude": 14.2858
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.karriere.at/jobs/7823477",
+    "companyUrl": "https://www.ds-automotion.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [
+      {
+        "name": "Magdalena Platzer",
+        "role": "Application Contact",
+        "relation": "Contact listed in job posting"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Application development for mobile transport robots and AMRs. Work includes functional requirements, vehicle sensor selection, C++ development under Linux, testing algorithms directly on vehicles, customer commissioning, and fault analysis. Worldwide travel requirement of at least 20%. Listed salary starts at EUR 3,500 gross per month.",
+    "tags": [
+      "C++",
+      "Linux",
+      "Mobile Robotics",
+      "AMR",
+      "AGV",
+      "Sensors",
+      "CANopen",
+      "Commissioning",
+      "Intralogistics"
+    ]
+  },
+  {
+    "id": "vace-softwareentwickler-cpp-mobile-robotik-7852304",
+    "company": "VACE Engineering GmbH",
+    "position": "Softwareentwickler*in C++ & Mobile Robotik (m/w/x)",
+    "location": {
+      "city": "Linz",
+      "country": "Austria",
+      "latitude": 48.3069,
+      "longitude": 14.2858
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.karriere.at/jobs/7852304",
+    "companyUrl": "https://www.vace.at",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [
+      {
+        "name": "Christoph Brandstätter",
+        "role": "Consultant",
+        "relation": "Contact listed in job posting"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "C++ software development for autonomous mobile robots and driverless transport systems for a VACE client in Linz. Responsibilities include defining vehicle functions and sensors, implementing applications and algorithms in C++ under Linux, testing and optimizing software directly on vehicles, commissioning at international customers, and troubleshooting. At least 20% international travel required. Listed salary starts at EUR 47,600 gross per year.",
+    "tags": [
+      "C++",
+      "Linux",
+      "Mobile Robotics",
+      "AMR",
+      "AGV",
+      "Autonomous Robots",
+      "Sensors",
+      "STL",
+      "CANopen",
+      "Commissioning",
+      "Intralogistics"
+    ]
+  },
+  {
+    "id": "kern-junior-softwareentwickler-intelligente-robotik-7829963",
+    "company": "KERN engineering careers GmbH",
+    "position": "Junior Softwareentwickler für intelligente Robotik (w/m/d)",
+    "location": {
+      "city": "Linz",
+      "country": "Austria",
+      "latitude": 48.3069,
+      "longitude": 14.2858
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.karriere.at/jobs/7829963",
+    "companyUrl": "https://www.kern-partner.at",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [
+      {
+        "name": "Marlies Teichmann",
+        "role": "Application Contact",
+        "relation": "Contact listed in job posting"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Software engineering role for mobile robots used in production and logistics environments. Work includes translating requirements into vehicle behavior, software development under Linux, sensor and hardware integration, direct testing and real-time debugging on physical robots, customer commissioning, and fault analysis. Up to 40% international travel. Salary range EUR 3,400 to EUR 4,400 gross per month.",
+    "tags": [
+      "C++",
+      "Linux",
+      "Mobile Robotics",
+      "Autonomous Robots",
+      "Sensors",
+      "Hardware Integration",
+      "Debugging",
+      "Commissioning",
+      "Intralogistics"
+    ]
+  },
+  {
+    "id": "tensar-robotics-software-engineer-4437878224",
+    "company": "Tensar Systems",
+    "position": "Robotics Software Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "closed",
+    "availability": "unavailable",
+    "applicationType": "open_application",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4437878224/",
+    "companyUrl": null,
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [
+      {
+        "name": "Kristof Kammerhofer",
+        "role": "Co-Founder & CPO",
+        "relation": "Potential contact for open application"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Former Robotics Software Engineer opening added as a target for an open application; company is currently not accepting applications for this role."
+      }
+    ],
+    "notes": "Former Vienna Robotics Software Engineer opening. Currently no longer accepting applications, but retained as a high-priority target for a future/open application. Role covered end-to-end UAV capabilities including architecture, prototyping, bench and field testing. Requirements included Python, Linux, ROS 2, computer vision, sensor/actuator integration, Git/GitHub and Docker; sensor fusion, state estimation and GIS/mapping were strongly preferred. Former listing indicated salary from EUR 45,000 gross per year.",
+    "tags": [
+      "ROS 2",
+      "Python",
+      "Linux",
+      "UAV",
+      "Autonomous Systems",
+      "Computer Vision",
+      "Sensor Fusion",
+      "State Estimation",
+      "Docker",
+      "Field Testing"
+    ]
+  },
+  {
+    "id": "knapp-softwareentwicklerin-mobile-robotersysteme-4455622518",
+    "company": "KNAPP",
+    "position": "Softwareentwickler:in für mobile Robotersysteme (m/w/d)",
+    "location": {
+      "city": "Dobl-Zwaring",
+      "country": "Austria",
+      "latitude": 46.946,
+      "longitude": 15.375
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4455622518/",
+    "companyUrl": "https://www.knapp.com",
+    "applicationDate": "2026-08-26",
+    "lastUpdate": "2026-08-26",
+    "documents": [
+      {
+        "type": "employment_reference",
+        "name": "Baubot Employment Reference",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/knapp/DZ_Baubot_Kevin_Eppacher.pdf"
+      },
+      {
+        "type": "degree_certificate",
+        "name": "Diploma Certificate",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/knapp/EppacherDiplomurkunde.pdf"
+      },
+      {
+        "type": "degree_certificate",
+        "name": "Diploma Certificate English",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/knapp/EppacherDiplomurkundeEng.pdf"
+      },
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/knapp/KevinEppacherCV.pdf"
+      },
+      {
+        "type": "cover_letter",
+        "name": "KNAPP Cover Letter",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/knapp/KnappCoverLetter.pdf"
+      },
+      {
+        "type": "certificate",
+        "name": "KUKA AMR Certificate",
+        "submitted": true,
+        "version": "2026-08",
+        "path": "data/knapp/KUKA_AMR_Certificate.pdf"
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with high priority."
+      },
+      {
+        "date": "2026-08-26",
+        "type": "application",
+        "description": "Application submitted for Softwareentwickler:in für mobile Robotersysteme (m/w/d)."
+      }
+    ],
+    "notes": "Software development for multiple mobile robot systems and mobile transport robots in intralogistics. Work spans vehicle software and central fleet control, product development and customer projects. Requirements emphasize C++, Linux, ROS or related frameworks, sensor fusion, localization, navigation, control, hardware components, machine learning/AI, user-interface tooling, Git/GitLab and Docker. Listed minimum salary is EUR 3,415.01 gross per month for 38.5 hours per week, with overpayment depending on qualifications and experience.",
+    "tags": [
+      "C++",
+      "Linux",
+      "ROS",
+      "Mobile Robotics",
+      "AMR",
+      "Navigation",
+      "Localization",
+      "Sensor Fusion",
+      "Control",
+      "Fleet Control",
+      "Docker",
+      "Git",
+      "Intralogistics"
+    ]
+  },
+  {
+    "id": "sea-ai-software-engineer-4446615261",
+    "company": "SEA.AI",
+    "position": "Software Engineer (m/f/d)",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4446615261/",
+    "companyUrl": "https://www.sea.ai",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [
+      {
+        "name": "Christian Willminger",
+        "role": "Application Contact",
+        "relation": "Contact listed in job posting"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with high priority."
+      }
+    ],
+    "notes": "Software engineering for real-time computer vision systems running on embedded NVIDIA Jetson hardware on vessels. Role focuses on C++/Python processing pipelines, real-time performance optimization, memory/compute/latency constraints, unit/integration/end-to-end testing, and cross-functional hardware/AI development. Requires hands-on GStreamer/video pipeline experience and lists 5+ years of production software experience. Nice-to-have technologies include NVIDIA DeepStream, Jetson/JetPack, OpenCV, CUDA/TensorRT, multi-object tracking, hardware-in-the-loop testing, and machine learning. Minimum salary EUR 60,000 gross per year.",
+    "tags": [
+      "C++",
+      "Python",
+      "Computer Vision",
+      "NVIDIA Jetson",
+      "GStreamer",
+      "Real-Time Systems",
+      "OpenCV",
+      "CUDA",
+      "TensorRT",
+      "DeepStream",
+      "Embedded Systems",
+      "Testing"
+    ]
+  },
+  {
+    "id": "hitachi-rail-software-engineer-dependable-systems-4448716670",
+    "company": "Hitachi Rail",
+    "position": "Software Engineer for Dependable Systems (f/m/d)",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4448716670/",
+    "companyUrl": "https://www.hitachirail.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Software engineering for Hitachi Rail's Dependable Systems team and TAS platform, a safety-critical real-time hardware and software platform for railway applications. Responsibilities include safety-, real-time- and security-focused software development, distributed systems and protocols, complex-system analysis, technical architecture and design, design patterns, implementation/integration/verification, and working in an agile environment with standardized quality and safety processes. Profile emphasizes C++, embedded real-time systems, Linux OS/development, distributed consensus protocols and virtualized systems. Listed salary starts at EUR 50,000 gross per year with up to 60% home office depending on the position.",
+    "tags": [
+      "C++",
+      "Linux",
+      "Embedded Systems",
+      "Real-Time Systems",
+      "Safety-Critical Systems",
+      "Distributed Systems",
+      "Software Architecture",
+      "Verification",
+      "Railway",
+      "Security"
+    ]
+  },
+  {
+    "id": "aeolus-senior-robotics-navigation-software-engineer-26-4",
+    "company": "Aeolus Robotics",
+    "position": "Senior Robotics Navigation Software Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://careers.aeolusbot.com/jobs/Careers/437636000034139048/Senior-Robotics-Navigation-Software-Engineer?source=CareerSite",
+    "companyUrl": "https://aeolusbot.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Senior navigation software role for autonomous service robots operating in dynamic indoor environments. Job Opening ID 26/4. Focus on 2D navigation algorithms, global and local trajectory planning, constrained motion planning, obstacle avoidance and recovery behavior, costmap integration from multiple sensor sources, debugging navigation failures, simulation and real-world deployment. Requires 5+ years of professional robotics software development, expert-level C++ and Linux, practical ROS/ROS 2 experience, and a proven track record with physical robots.",
+    "tags": [
+      "ROS 2",
+      "C++",
+      "Linux",
+      "Navigation",
+      "Motion Planning",
+      "Trajectory Planning",
+      "Localization",
+      "Costmaps",
+      "Obstacle Avoidance",
+      "Mobile Robotics",
+      "Physical Robots",
+      "Simulation"
+    ]
+  },
+  {
+    "id": "aeolus-junior-robotics-engineer-25-9",
+    "company": "Aeolus Robotics",
+    "position": "Junior Robotics Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://careers.aeolusbot.com/jobs/Careers/437636000034139001/Junior-Robotics-Engineer?source=CareerSite",
+    "companyUrl": "https://aeolusbot.com",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-26",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Junior generalist robotics engineering role in Vienna (Job Opening ID 25/9, 0-3 years experience). Hands-on work across the robotics stack including debugging and maintaining existing components, analyzing logs and telemetry to troubleshoot real robot failures, hardening research prototypes such as grasping and manipulation pipelines for deployment, writing production code, and supporting tooling, experiments and automation. Strong emphasis on real hardware experience and practical robotics. Requires solid computer science fundamentals and enough C++ to read and reason about a large codebase; BSc or MSc in a relevant field. In-office role with no remote work.",
+    "tags": [
+      "C++",
+      "Robotics",
+      "Physical Robots",
+      "Debugging",
+      "Telemetry",
+      "Manipulation",
+      "Production Software",
+      "Automation",
+      "Hardware Integration",
+      "Testing"
+    ]
+  },
+  {
+    "id": "konica-minolta-software-engineer-plc-robot-7860004",
+    "company": "Konica Minolta Business Solutions Austria GmbH",
+    "position": "Software Engineer (PLC / Robot) (m/w/d)",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.karriere.at/jobs/robotik/wien#7860004",
+    "companyUrl": "https://www.konicaminolta.at",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-27",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-27",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Software Engineer role in Vienna at Konica Minolta Business Solutions Austria GmbH, focused on PLC and robotics within Research & Development. Full-time permanent position with mobile work/home office possible. Listed salary starts at EUR 75,000 gross per year.",
+    "tags": [
+      "Robotics",
+      "PLC",
+      "Software Engineering",
+      "Research & Development",
+      "Industrial Automation"
+    ]
+  },
+  {
+    "id": "iono-ai-researcher-2026",
+    "company": "Iono",
+    "position": "AI Researcher",
+    "location": {
+      "city": "Linz",
+      "country": "Austria",
+      "latitude": 48.3069,
+      "longitude": 14.2858
+    },
+    "priority": "high",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.iono.tech/jobs-1/ai-researcher",
+    "companyUrl": "https://www.iono.tech",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-27",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-27",
+        "type": "added",
+        "description": "Job added to dashboard as open with high priority."
+      }
+    ],
+    "notes": "AI Researcher role focused on adaptable human-centric robots, bridging deep learning with robotics. Responsibilities include developing models for motion planning, vision, and human-robot interaction; research in reinforcement learning, imitation learning, and multimodal AI; prototyping and testing algorithms on real humanoid robots; and transitioning research toward deployment. Requires an MSc or PhD in AI, Machine Learning, Robotics, or similar, strong neural-network experience with PyTorch or TensorFlow, and experience with embodied AI or learning in physical environments. Robotics simulation experience with Isaac Gym or Gazebo is a bonus. Full-time hybrid role in Linz.",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Physical AI",
+      "Motion Planning",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "Imitation Learning",
+      "Multimodal AI",
+      "PyTorch",
+      "Humanoid Robots",
+      "Isaac Gym",
+      "Gazebo"
+    ]
+  }
 ]
