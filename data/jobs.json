@@ -734,5 +734,41 @@
       "Autonomous Systems",
       "Machine Learning"
     ]
+  },
+  {
+    "id": "ventus-drone-software-hardware-integration-engineer-4410171303",
+    "company": "Ventus Group",
+    "position": "Drone Software & Hardware Integration Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "medium",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4410171303/",
+    "companyUrl": null,
+    "applicationDate": null,
+    "lastUpdate": "2026-08-28",
+    "documents": [],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-08-28",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      }
+    ],
+    "notes": "Drone Software & Hardware Integration Engineer role at Ventus Group in Vienna. The LinkedIn listing labels the position as an internship. Ventus Group is described in the posting as a global wind turbine service provider.",
+    "tags": [
+      "Drones",
+      "UAV",
+      "Software Integration",
+      "Hardware Integration",
+      "Robotics"
+    ]
   }
 ]
