@@ -713,13 +713,13 @@
       "longitude": 15.805
     },
     "priority": "high",
-    "status": "open",
+    "status": "applied",
     "availability": "available",
     "applicationType": "job_posting",
     "jobUrl": "https://www.linkedin.com/jobs/view/4448768617/",
     "companyUrl": "https://rosendahlnextrom.com",
-    "applicationDate": null,
-    "lastUpdate": "2026-08-27",
+    "applicationDate": "2026-08-31",
+    "lastUpdate": "2026-08-31",
     "documents": [],
     "contacts": [],
     "timeline": [
@@ -727,6 +727,11 @@
         "date": "2026-08-27",
         "type": "added",
         "description": "Job added to dashboard as open with high priority."
+      },
+      {
+        "date": "2026-08-31",
+        "type": "application",
+        "description": "Application submitted for Physical AI Research Engineer (f/m/x)."
       }
     ],
     "notes": "Physical AI Research Engineer role at Rosendahl Nextrom GmbH in Pischelsdorf in der Steiermark. Focused on AI-driven robotics and intelligent, adaptable industrial robotic systems for real-world production environments. Hybrid full-time position. Listed salary range EUR 65,000 to EUR 96,000 gross per year.",
