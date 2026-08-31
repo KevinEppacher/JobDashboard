@@ -770,5 +770,48 @@
       "Hardware Integration",
       "Robotics"
     ]
+  },
+  {
+    "id": "tensar-computer-vision-engineer-4445181005",
+    "company": "Tensar Systems",
+    "position": "Computer Vision Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "open",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4445181005/",
+    "companyUrl": "https://tensar.systems",
+    "applicationDate": null,
+    "lastUpdate": "2026-08-31",
+    "documents": [],
+    "contacts": [
+      {
+        "name": "Kristof Kammerhofer",
+        "role": "Co-Founder & CPO",
+        "relation": "LinkedIn contact shown in job posting"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-31",
+        "type": "added",
+        "description": "Job added to dashboard as open with high priority."
+      }
+    ],
+    "notes": "Computer Vision Engineer role at Tensar Systems in Vienna. Full-time position focused on computer vision for autonomous systems, including detection-model development and edge deployment.",
+    "tags": [
+      "Computer Vision",
+      "AI",
+      "Autonomous Systems",
+      "Edge AI",
+      "Machine Learning",
+      "Robotics"
+    ]
   }
 ]
