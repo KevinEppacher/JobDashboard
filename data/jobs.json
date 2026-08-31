@@ -498,13 +498,13 @@
       "longitude": 16.3738
     },
     "priority": "medium",
-    "status": "open",
+    "status": "applied",
     "availability": "available",
     "applicationType": "job_posting",
     "jobUrl": "https://careers.aeolusbot.com/jobs/Careers/437636000034139048/Senior-Robotics-Navigation-Software-Engineer?source=CareerSite",
     "companyUrl": "https://aeolusbot.com",
-    "applicationDate": null,
-    "lastUpdate": "2026-08-26",
+    "applicationDate": "2026-08-31",
+    "lastUpdate": "2026-08-31",
     "documents": [],
     "contacts": [],
     "timeline": [
@@ -512,6 +512,11 @@
         "date": "2026-08-26",
         "type": "added",
         "description": "Job added to dashboard as open with medium priority."
+      },
+      {
+        "date": "2026-08-31",
+        "type": "application",
+        "description": "Application submitted for Senior Robotics Navigation Software Engineer."
       }
     ],
     "notes": "Senior navigation software role for autonomous service robots operating in dynamic indoor environments. Job Opening ID 26/4. Focus on 2D navigation algorithms, global and local trajectory planning, constrained motion planning, obstacle avoidance and recovery behavior, costmap integration from multiple sensor sources, debugging navigation failures, simulation and real-world deployment. Requires 5+ years of professional robotics software development, expert-level C++ and Linux, practical ROS/ROS 2 experience, and a proven track record with physical robots.",
