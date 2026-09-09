@@ -823,5 +823,76 @@
       "Machine Learning",
       "Robotics"
     ]
+  },
+  {
+    "id": "brz-technical-data-science-ai-consultant-3206",
+    "company": "Bundesrechenzentrum GmbH",
+    "position": "Technical Data Science & AI Consultant (w/m/d) - Betrugsbekämpfung",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.brz-jobs.at/Job/3206/Technical-Data-Science--AI-Consultant-(w-m-d)-Betrugsbekaempfung",
+    "companyUrl": "https://www.brz.gv.at",
+    "applicationDate": "2026-09-09",
+    "lastUpdate": "2026-09-09",
+    "documents": [
+      {
+        "type": "employment_reference",
+        "name": "Baubot Employment Reference",
+        "submitted": true,
+        "version": "2026-09",
+        "path": "data/brz/DZ_Baubot_Kevin_Eppacher.pdf"
+      },
+      {
+        "type": "cover_letter",
+        "name": "BRZ Cover Letter",
+        "submitted": true,
+        "version": "2026-09",
+        "path": "data/brz/EppacherBrzAnschreiben.pdf"
+      },
+      {
+        "type": "degree_certificate",
+        "name": "Diploma Certificate",
+        "submitted": true,
+        "version": "2026-09",
+        "path": "data/brz/EppacherDiplomurkunde.pdf"
+      },
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-09",
+        "path": "data/brz/KevinEppacherCV.pdf"
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-09-09",
+        "type": "application",
+        "description": "Application submitted for Technical Data Science & AI Consultant (w/m/d) - Betrugsbekämpfung."
+      }
+    ],
+    "notes": "Fixed-term AI/ML role in BRZ Advanced Analytics focused on fraud prevention. Work includes Python-based AI/ML software, scalable analytics architectures, production integration of ML models via APIs/services/containers, GenAI including LLM assistants and RAG, structured and unstructured data processing, and deployment with OpenShift/Kubernetes. Position is fixed-term until July 2027.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Data Science",
+      "GenAI",
+      "LLM",
+      "RAG",
+      "MLOps",
+      "Kubernetes",
+      "OpenShift",
+      "Data Engineering",
+      "Fraud Detection"
+    ]
   }
 ]
