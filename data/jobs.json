@@ -894,5 +894,76 @@
       "Data Engineering",
       "Fraud Detection"
     ]
+  },
+  {
+    "id": "qtlabs-senior-c-cpp-software-engineer-2026",
+    "company": "qtlabs",
+    "position": "Senior C/C++ Software Engineer (all genders)",
+    "location": {
+      "city": null,
+      "country": "Austria",
+      "latitude": null,
+      "longitude": null
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": null,
+    "companyUrl": "https://qtlabs.at",
+    "applicationDate": "2026-10-01",
+    "lastUpdate": "2026-10-01",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "employment_reference",
+        "name": "Baubot Employment Reference",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "degree_certificate",
+        "name": "Master Diploma Certificate",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-10-01",
+        "type": "application",
+        "description": "Application submitted for Senior C/C++ Software Engineer (all genders)."
+      }
+    ],
+    "notes": "Senior C/C++ software engineering role for next-generation Quantum Optical Ground Stations used for free-space optical communication and quantum key distribution. Responsibilities include developing C/C++ and Python application and control software for telescope operation, optical instrumentation and tracking systems; integrating cameras, sensors, motion-control systems, measurement equipment and scientific instruments; implementing interfaces between hardware devices, distributed services and external control systems; debugging and performance optimization of complex hardware/software systems; laboratory integration, system verification, on-site installation, commissioning and acceptance testing. Software engineering responsibilities include unit testing, code review, requirements traceability, documentation, version control and CI/CD. The role emphasizes Linux, CMake, multithreaded/asynchronous systems, modular software architectures and hardware/software integration. Expected salary entered in application: EUR 68,000 gross per year.",
+    "tags": [
+      "C++",
+      "Python",
+      "Linux",
+      "CMake",
+      "Hardware Integration",
+      "Sensors",
+      "Cameras",
+      "Motion Control",
+      "Tracking Systems",
+      "Distributed Systems",
+      "Multithreading",
+      "Asynchronous Systems",
+      "CI/CD",
+      "Testing",
+      "Optical Ground Stations",
+      "Free-Space Optical Communication",
+      "QKD",
+      "Space"
+    ]
   }
 ]
