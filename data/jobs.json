@@ -1067,5 +1067,57 @@
         "description": "Application submitted for Research Engineer."
       }
     ]
+  },
+  {
+    "id": "schulmeister-robotics-physical-ai-expert-13049",
+    "company": "Schulmeister Management Consulting GmbH",
+    "position": "Robotics / Physical AI Experte (m/w/d)",
+    "location": {
+      "city": null,
+      "country": "Austria",
+      "latitude": null,
+      "longitude": null
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.schulmeister-consulting.com/de/fuer-bewerberinnen/jobs-finden/robotics-physical-ai-experte-mwd/13049",
+    "companyUrl": "https://www.schulmeister-consulting.com",
+    "applicationDate": "2026-10-01",
+    "lastUpdate": "2026-10-01",
+    "documents": [
+      {
+        "type": "cover_letter",
+        "name": "Schulmeister Robotics / Physical AI Cover Letter",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-10-01",
+        "type": "application",
+        "description": "Application submitted for Robotics / Physical AI Experte (m/w/d), Job ID 13049."
+      }
+    ],
+    "notes": "Confidential client building a dedicated Physical AI capability. Role focuses on evaluating and integrating modern robotics platforms, ROS 2, manipulation, navigation, perception, VLA models, robot learning, simulation, and hardware integration for industrial applications. Salary starts at EUR 70,000 gross/year.",
+    "tags": [
+      "Physical AI",
+      "Robot Learning",
+      "ROS 2",
+      "C++",
+      "Python",
+      "VLA",
+      "Reinforcement Learning",
+      "Imitation Learning",
+      "Manipulation",
+      "Navigation",
+      "Computer Vision",
+      "Simulation",
+      "Hardware Integration"
+    ]
   }
 ]
