@@ -965,5 +965,79 @@
       "QKD",
       "Space"
     ]
+  },
+  {
+    "id": "aeolus-junior-robotics-engineer-25-9",
+    "company": "Aeolus Robotics",
+    "position": "Junior Robotics Engineer",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "medium",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://careers.aeolusbot.com/jobs/Careers/437636000034139001/Junior-Robotics-Engineer?source=CareerSite",
+    "companyUrl": "https://aeolusbot.com",
+    "applicationDate": "2026-10-01",
+    "lastUpdate": "2026-10-01",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "cover_letter",
+        "name": "Aeolus Robotics Cover Letter",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "employment_reference",
+        "name": "Baubot Employment Reference",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dr. Michael Zillich",
+        "role": "Professional Contact",
+        "relation": "Recommended this position"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-08-26",
+        "type": "added",
+        "description": "Job added to dashboard as open with medium priority."
+      },
+      {
+        "date": "2026-10-01",
+        "type": "application",
+        "description": "Application submitted for Junior Robotics Engineer."
+      }
+    ],
+    "notes": "Junior generalist robotics engineering role in Vienna. Hands-on work across the robotics stack including debugging, system integration, real robot failures, manipulation, production software, tooling and automation. Position recommended by Dr. Michael Zillich.",
+    "tags": [
+      "C++",
+      "ROS 2",
+      "Robotics",
+      "Physical Robots",
+      "Debugging",
+      "Manipulation",
+      "Production Software",
+      "Automation",
+      "Hardware Integration",
+      "Testing"
+    ]
   }
 ]
