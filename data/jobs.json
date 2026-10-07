@@ -1162,5 +1162,71 @@
       "Hardware Integration",
       "High-Tech"
     ]
+  },
+  {
+    "id": "dccs-robotics-integration-engineer-humanoid-robotics-2026",
+    "company": "DCCS GmbH",
+    "position": "Robotics Integration Engineer (Humanoide Robotik) (m/w/x)",
+    "location": {
+      "city": "Graz / Wels",
+      "country": "Austria",
+      "latitude": null,
+      "longitude": null
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://career.dccs.eu/de/jobs/76/robotics-integration-engineer-humanoide-robotik-mwx",
+    "companyUrl": "https://www.dccs.eu/",
+    "applicationDate": "2026-10-07",
+    "lastUpdate": "2026-10-07",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "cover_letter",
+        "name": "DCCS Cover Letter",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "employment_reference",
+        "name": "Baubot Employment Reference",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-10-07",
+        "type": "application",
+        "description": "Application submitted for Robotics Integration Engineer (Humanoide Robotik) (m/w/x)."
+      }
+    ],
+    "notes": "Robotics integration role focused on deploying humanoid robots in industrial customer environments. Responsibilities include integration architectures, ROS 2, navigation, manipulation, commissioning, robot platform evaluation, NVIDIA Isaac/GR00T, foundation models, task teaching, learning from demonstration, synthetic data, and customer integration. Up to 30% travel within DACH. Earliest start entered: 12.10.2026. Salary expectation entered: EUR 80,000 gross per year. Listed collective-agreement minimum: EUR 5,444 gross per month.",
+    "tags": [
+      "Humanoid Robotics",
+      "Mobile Manipulation",
+      "ROS 2",
+      "Robot Integration",
+      "Physical AI",
+      "NVIDIA Isaac",
+      "GR00T",
+      "Foundation Models",
+      "Imitation Learning",
+      "Navigation",
+      "Manipulation",
+      "Commissioning",
+      "Industrial Robotics"
+    ]
   }
 ]
