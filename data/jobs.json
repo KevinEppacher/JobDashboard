@@ -1228,5 +1228,65 @@
       "Commissioning",
       "Industrial Robotics"
     ]
+  },
+  {
+    "id": "esri-software-development-engineer-ii-cpp-4476376488",
+    "company": "Esri",
+    "position": "Software Development Engineer II - C++",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "priority": "high",
+    "status": "applied",
+    "availability": "available",
+    "applicationType": "job_posting",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4476376488/",
+    "companyUrl": "https://www.esri.com/",
+    "applicationDate": "2026-10-08",
+    "lastUpdate": "2026-10-08",
+    "documents": [
+      {
+        "type": "cv",
+        "name": "Kevin Eppacher CV",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      },
+      {
+        "type": "cover_letter",
+        "name": "Esri Cover Letter",
+        "submitted": true,
+        "version": "2026-10",
+        "path": null
+      }
+    ],
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "type": "application",
+        "description": "Application submitted for Software Development Engineer II - C++."
+      }
+    ],
+    "notes": "C++ software engineering role at the Esri R&D Center Vienna focused on indoor positioning for ArcGIS IPS. Work centers on developing and optimizing positioning software for mobile devices, combining motion-sensor information with Bluetooth Low Energy and Wi-Fi signal data. Strong relevance to localization, sensor fusion, state estimation, spatial mapping, and visualization. Application emphasized Baubot ROS 2/C++ ownership and total-station-based localization correction, AMCL and Kalman filtering, and RGB-D-based persistent 3D semantic mapping from the Master's thesis.",
+    "tags": [
+      "C++",
+      "Python",
+      "Indoor Positioning",
+      "Localization",
+      "Sensor Fusion",
+      "State Estimation",
+      "Spatial Mapping",
+      "GIS",
+      "ArcGIS IPS",
+      "Mobile Development",
+      "BLE",
+      "Wi-Fi",
+      "Kalman Filter",
+      "3D Mapping"
+    ]
   }
 ]
